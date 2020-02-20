@@ -1,4 +1,4 @@
-#Metronome React#
+## Metronome React
 
 for personal task
 from https://daveceddia.com/react-practice-projects/
